@@ -28,13 +28,13 @@ I design 3D worlds and assets with a focus on detail and atmosphere:
 
 ### 💻 Programming
 # Languages
-Javascript | HTML/CSS | SCSS | Lua | SQL
+Javascript | TypeScript | HTML/CSS | SCSS | Lua | SQL
 
 # Frameworks
-ReactJs | NodeJs | MySQL | MongoDB | RobloxAPI | Socket.IO | (P)NPM
+ReactJs | NodeJs | MySQL | MongoDB | RobloxAPI | Socket.IO | (P)NPM | Sandbox (FiveM)
 
 ## 🎨 3D & Design
-Blender | Substance Painter 3D | Photoshop | 
+Blender | Substance Painter 3D | Photoshop | Codewalker
 
 ---
 
