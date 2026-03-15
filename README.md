@@ -1,60 +1,22 @@
 # 👋 Hi, I'm Zayd
 
-🚀 React | 🧠 Python | 🎮 3D | 💻 Typescript | 🎨 Tailwind
+🚀 React | 🧠 Python | 💻 TypeScript | 🎮 3D | 🎨 Tailwind
 
-I’m a passionate developer focused on building real-world systems using **Python, TypeScript, React, and modern engineering practices**.  
+I build modern, scalable systems using **Python, React, and TypeScript**, with a focus on clean architecture and real-world applications.
 
-I enjoy creating:
-- 🤖 AI systems (Python-based)
-- 🌐 Full-stack web applications (React + TypeScript)
-- 🎮 Roblox systems (advanced scripting & mechanics)
-- 🛠️ Realistic High Detail 3D Art
+### 🔹 What I Do
+- 🤖 AI projects (Python)
+- 🌐 Full-stack apps (React + TypeScript)
+- 🎮 Game systems & scripting
+- 🛠️ High-detail 3D work
 
----
-
-## 🧠 What I'm Focused On
-
-- Building advanced AI projects in Python
-- Integrating AI into web apps using React + TypeScript
-- Writing clean, scalable code
-- Learning software engineering at a deep level
+### 🛠 Tech Stack
+Python • TypeScript • React • TailwindCSS • Lua • HTML/CSS
 
 ---
 
-## 🛠 Tech Stack
+📬 **Contact**
+Email: kivo.dev3d@gmail.com  
+Discord: @zaydev  
 
-**Languages**
-- Python
-- TypeScript
-- TailwindCSS
-- React
-- Lua
-- HTML & CSS
-
----
-
-## 🚀 Current Interests
-
-- AI integration into web applications
-- Scalable project architecture
-- Building production-style projects
-- Game server development (FiveM)
-- Long-term skill development roadmaps
-
----
-
-## 🎯 Goals
-
-- Become highly skilled in software engineering
-- Master full-stack development
-- Build advanced AI systems
-- Develop large-scale projects
-- Continuously improve through structured learning
-
----
-
-## 📬 Connect With Me
- - Email: kivo.dev3d@gmail.com
- - Discord: @zaydev
-
-Always building. Always learning. 🚀
+Always building. Always improving. 🚀
