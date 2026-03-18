@@ -2,16 +2,13 @@
 
 🚀 React | 🧠 Python | 💻 TypeScript | 🎮 3D | 🎨 Tailwind
 
-I build modern, scalable systems using **Python, React, and TypeScript**, with a focus on clean architecture and real-world applications.
 
 ### 🔹 What I Do
 - 🤖 AI projects (Python)
 - 🌐 Full-stack apps (React + TypeScript)
-- 🎮 Game systems & scripting
 - 🛠️ High-detail 3D work
 
-### 🛠 Tech Stack
-Python • TypeScript • React • TailwindCSS • Lua • HTML/CSS
+The 2% of any tasks is always the hardest, why they leave it in the milk!
 
 ---
 
