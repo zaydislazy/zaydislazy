@@ -1,19 +1,18 @@
 # 👋 Hi, I'm Zayd
 
-🚀 React | 🧠 Python | 💻 TypeScript | 🎮 3D | 🎨 Tailwind
+🚀 React | ☄️ Lua | 🧠 Python | 💻 TypeScript | 🎮 3D | 🎨 Tailwind | 💾 SQL
 
 
 ### 🔹 What I Do
 - 🤖 AI projects (Python)
-- 🌐 Full-stack apps (React + TypeScript)
+- 🌐 Full-stack apps (React + TypeScript + NextJs + MySQL)
 - 🛠️ High-detail 3D work
+- 🎮 Fullstack FiveM Experiences 
 
-The 2% of any tasks is always the hardest, why they leave it in the milk!
+✨ The last 2% of any task is always the hardest, it's why they leave it in the milk! ✨
 
 ---
 
 📬 **Contact**
 Email: kivo.dev3d@gmail.com  
-Discord: @zaydev  
-
-Always building. Always improving. 🚀
+Discord: @zaydev
